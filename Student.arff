@@ -6,7 +6,7 @@
 @attribute cost numeric
 @attribute category {kitchen,bedRoom,livingRoom,washRoom, Play}
 @attribute color string
-@attribute phone numeric
+@attribute phone string
 
 @data
 ball , 50 , Play , blue , 73372542634
